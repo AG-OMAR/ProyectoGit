@@ -1,0 +1,3 @@
+Este es una primeta práctica utilizando el sftware sE control de versiones GIT.
+
+Estoy utilizando algunos comandos importantes 
